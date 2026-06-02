@@ -54,15 +54,14 @@ SheCanFoundation/
 
 ### Homepage
 
-![Homepage](assets/screenshots/homepage.png)
-
+![Homepage](assets/screenshots/home.png)
 ### Focus Areas
 
 ![Focus Areas](assets/screenshots/focus-areas.png)
 
 ### Contact Section
 
-![Contact](assets/screenshots/contact-section.png)
+![Contact](assets/screenshots/contact.png)
 
 ## Live Demo
 
